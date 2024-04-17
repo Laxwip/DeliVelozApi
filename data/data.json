@@ -709,5 +709,50 @@
       },
       "availability": true
     }
+  ],
+
+  "banners": [
+    {
+      "title": "Hamburguesa hawaiana",
+      "description": "¡Descubre nuestra irresistible Hamburguesa Hawaiana, una explosión de sabores exóticos en cada bocado!\\n\\nNuestra Hamburguesa Hawaiana combina lo mejor de la cocina tropical con la tradición de una buena hamburguesa. Comienza con una jugosa carne de res o pollo a la parrilla, cocinada a la perfección para garantizar un sabor inigualable. Sobre esta deliciosa base se añade una rodaja de piña fresca, aportando un toque dulce y refrescante que te transportará directamente a las playas de Hawai.\\n\\nPero eso no es todo. Nuestra hamburguesa está rematada con una generosa porción de salsa teriyaki, que le da un sabor agridulce irresistible. La combinación de la carne jugosa, la piña tropical y la salsa teriyaki crea una experiencia de sabor única que te hará regresar por más.\\n\\nAcompañada de crujientes hojas de lechuga y rodajas de tomate fresco, esta Hamburguesa Hawaiana es una opción perfecta para quienes buscan algo diferente y delicioso. Ya sea para una comida rápida o un capricho especial, nuestra Hamburguesa Hawaiana te conquistará desde el primer bocado.\\n\\n¡No te pierdas la oportunidad de probar esta deliciosa creación! Ven y prueba nuestra Hamburguesa Hawaiana en [nombre del restaurante] hoy mismo. Te aseguramos que será una experiencia gastronómica que no olvidarás.",
+      "image": {
+        "jpg": "https://res.cloudinary.com/derot8znd/image/upload/v1713366794/jpg/hd7m0bpw2d94axq20buy.jpg"
+      }
+    },
+    {
+      "title": "Crispetas de pollo",
+      "description": "¡Prueba nuestras irresistibles Crispetas de Pollo, el snack perfecto para cualquier ocasión!\\n\\nNuestras Crispetas de Pollo son una deliciosa opción para satisfacer tus antojos. Cada bocado está lleno de sabor y textura crujiente que te hará volver por más.\\n\\nPreparamos nuestras Crispetas de Pollo utilizando tiernos trozos de pechuga de pollo marinados en una mezcla especial de especias y condimentos. Luego, los empanizamos cuidadosamente para lograr una capa exterior dorada y crujiente que es simplemente irresistible.\\n\\nEl resultado es un snack crujiente por fuera y jugoso por dentro, perfecto para disfrutar solo o compartir con amigos y familiares. Nuestras Crispetas de Pollo son ideales como aperitivo antes de la comida, como complemento para una película en casa o como parte de una fiesta.\\n\\nVen y prueba nuestras Crispetas de Pollo en [nombre del restaurante] y descubre por qué son tan populares. ¡Te garantizamos que te encantarán desde el primer bocado! Acompáñalas con una salsa especial o disfrútalas solas; de cualquier manera, te aseguramos una experiencia deliciosa y satisfactoria.\\n\\nNo esperes más para disfrutar de este sabroso y crujiente manjar. ¡Te esperamos en nuestro restaurante para que pruebes nuestras Crispetas de Pollo hoy mismo!",
+      "image": {
+        "jpg": "https://res.cloudinary.com/derot8znd/image/upload/v1711387507/jpg/crispetas_de_pollo_xjmn43-min_xoteha.jpg"
+      }
+    },
+    {
+      "title": "Lasagna safre",
+      "description": "¡Déjate seducir por nuestra exquisita Lasagna de Pollo con Champiñones, una experiencia culinaria que deleitará tus sentidos!\\n\\nNuestra Lasagna de Pollo con Champiñones es una fusión perfecta de sabores reconfortantes y texturas deliciosas. Cada capa está cuidadosamente preparada para ofrecerte un festín de auténtico sabor casero.\\n\\nComenzamos con jugosos trozos de pollo cocinados a la perfección y champiñones frescos, salteados en una mezcla de hierbas y especias que realzan su sabor. Estos ingredientes se combinan con una suave y cremosa salsa bechamel, que aporta una rica textura y un toque de indulgencia a cada bocado.\\n\\nEntre capa y capa de pasta fresca, encontrarás generosas porciones de nuestra mezcla de pollo y champiñones, junto con una mezcla de quesos gratinados que se derriten en tu boca. Cada porción está llena de sabor, desde el primer bocado hasta el último.\\n\\nNuestra Lasagna de Pollo con Champiñones es una opción ideal para disfrutar en cualquier ocasión especial o simplemente para consentirte a ti mismo. Combínala con una ensalada fresca y una copa de vino para una experiencia gastronómica completa.\\n\\nNo esperes más para probar nuestra Lasagna de Pollo con Champiñones en [nombre del restaurante]. Te aseguramos que te enamorarás de este clásico italiano con un toque especial. ¡Ven y déjate llevar por una explosión de sabores increíbles en cada porción!",
+      "image": {
+        "jpg": "https://res.cloudinary.com/derot8znd/image/upload/v1711387596/jpg/lasagnaSaFre_ztzhja-min_kymgcg.jpg"
+      }
+    },
+    {
+      "title": "Picada deliveloz",
+      "description": "¡Disfruta de nuestra increíble Picada, un festín de sabores y variedad que hará tus reuniones inolvidables!\\n\\nNuestra Picada es una selección cuidadosamente elaborada de deliciosos bocados para compartir con amigos y familiares. Desde sabrosas carnes hasta acompañamientos tentadores, cada elemento está pensado para satisfacer todos los gustos.\\n\\nSumérgete en una combinación de carnes frías premium, como jamón serrano, salami, chorizo ​​y lomo embuchado, acompañadas de una variedad de quesos artesanales que incluyen manchego, brie y gouda. Estos sabores se complementan a la perfección con aceitunas marinadas, pepinillos, almendras tostadas y uvas frescas para un toque de dulzura.\\n\\nPero eso no es todo. Nuestra Picada también incluye crujientes patatas bravas con salsa picante, deliciosos montaditos de pan con tomate y jamón, así como albóndigas caseras en salsa de tomate. Cada bocado está lleno de autenticidad y sabor, preparado con ingredientes frescos y de calidad.\\n\\nNuestra Picada es ideal para cualquier ocasión: desde fiestas casuales hasta celebraciones especiales. Acompáñala con una buena copa de vino o cerveza artesanal para una experiencia gastronómica completa.\\n\\nVen y descubre por qué nuestra Picada es tan popular en [nombre del restaurante]. Te garantizamos una explosión de sabores y una experiencia culinaria que te dejará con ganas de más. ¡Haz de tu próxima reunión algo memorable con nuestra deliciosa Picada!",
+      "image": {
+        "jpg": "https://res.cloudinary.com/derot8znd/image/upload/v1713367410/jpg/xf5nw6qzjv0gpe4qhn08.jpg"
+      }
+    },
+    {
+      "title": "Pizza mexicana",
+      "description": "¡Prueba nuestra Pizza Mexicana y déjate llevar por una explosión de sabores vibrantes y auténticos!\\n\\nNuestra Pizza Mexicana es una deliciosa interpretación de la clásica pizza con ingredientes inspirados en la cocina mexicana. Cada mordisco te transportará a México con sus sabores picantes y frescos.\\n\\nComenzamos con una base de masa crujiente y dorada, cuidadosamente extendida a mano. Sobre esta base, extendemos una generosa capa de salsa de tomate con un toque de chipotle, que le da un sabor ahumado y ligeramente picante.\\n\\nLuego, cubrimos la pizza con una mezcla perfecta de ingredientes tradicionales mexicanos: trozos de pollo sazonados con especias mexicanas, cebolla roja en rodajas, pimientos morrones coloridos y maíz dulce. Todo esto se remata con una capa de queso mozzarella rallado que se derrite y se funde con los demás ingredientes.\\n\\nDespués de hornearla a la perfección, la pizza se corona con aguacate fresco en rodajas, cilantro picado y una generosa cantidad de crema agria para añadir un toque de frescura y suavidad.\\n\\nEsta Pizza Mexicana es una opción perfecta para los amantes de la cocina mexicana y de la pizza. Ya sea para una comida informal entre amigos o una cena especial en casa, nuestra Pizza Mexicana te sorprenderá con su combinación única de sabores.\\n\\n¡Ven y prueba nuestra Pizza Mexicana en [nombre del restaurante] y descubre por qué es tan popular entre nuestros clientes! Estamos seguros de que te encantará cada bocado de esta delicia mexicana sobre masa. ¡Buen provecho!",
+      "image": {
+        "jpg": "https://res.cloudinary.com/derot8znd/image/upload/v1713367637/jpg/vwlepfny2sygyyf5qmsu.jpg"
+      }
+    },
+    {
+      "title": "Te con limon",
+      "description": "Disfruta de nuestro refrescante Té con Limón, una bebida clásica y reconfortante que te brindará un momento de calma y sabor vibrante.\\n\\nNuestro Té con Limón es una combinación perfecta de té negro o verde, infusionado con jugo fresco de limón y endulzado con un toque justo de azúcar o miel, según tu preferencia. Cada sorbo es una experiencia equilibrada entre lo cítrico y lo reconfortante, ideal para cualquier ocasión.\\n\\nPreparamos nuestro Té con Limón con ingredientes de la más alta calidad, garantizando un sabor puro y auténtico. El té se elabora cuidadosamente para lograr una infusión perfecta, liberando sus aromas y propiedades con cada sorbo.\\n\\nYa sea que lo disfrutes caliente en una tarde fría o frío con hielo en un día soleado, nuestro Té con Limón es una opción versátil y deliciosa para todos los momentos. Su frescura y ligereza lo convierten en una bebida ideal para acompañar comidas o simplemente para relajarte y disfrutar.\\n\\nVen y prueba nuestro Té con Limón en [nombre del lugar], donde cada taza está preparada con atención al detalle para ofrecerte una experiencia verdaderamente refrescante y deliciosa. ¡Te invitamos a descubrir el placer simple de nuestro Té con Limón hoy mismo!",
+      "image": {
+        "jpg": "https://res.cloudinary.com/derot8znd/image/upload/v1711387524/jpg/granizadoDeTeConLimon_vgsgxq-min_k1pvyp.jpg"
+      }
+    }
   ]
 }
